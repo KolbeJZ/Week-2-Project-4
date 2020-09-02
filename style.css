@@ -1,0 +1,27 @@
+form {
+    border: 2px solid black;
+    width:20%;
+    padding-top: 25px;
+    border-radius:5px;
+    font-family:'Lato', sans-serif;
+    float:right;
+    margin-top:300px;
+    margin-right:750px;
+    padding-bottom:25px;
+}
+h1 {
+    text-align:center;
+}
+input[type=submit]{
+    padding:5px 5px;
+    margin: 4px 2px;
+    width:60%;
+    background-color:white;
+    border-style:outset;
+}
+.form{
+    text-align:center;
+}
+input[type=submit], input[type=firstName], input[type=lastName] {
+    margin-bottom:10px;
+}
